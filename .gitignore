@@ -1,0 +1,13 @@
+BrightnessCriterion.lua
+prac_nngraph.lua
+SmoothnessCriterion.lua
+
+checkpoints/Losses_*.t7
+checkpoints/model_*.t7
+checkpoints/optimState_*.t7
+
+checkpoints/scheduling_60_0.5/
+
+losses/testing/
+losses/scheduling_60_0.5/
+
